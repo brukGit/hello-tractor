@@ -1,0 +1,15 @@
+client/node_modules
+server/node_modules
+node_modules/
+
+client/build
+
+server/.env
+client/.env
+
+client/src/assets/mockDataSample.js
+clinet/src/assets/images/collections/
+
+server/schemaRelationships.txt
+
+assetPack/
